@@ -93,5 +93,7 @@ export default function App() {
         }}
       >
         <ActivePage {...pageProps[current]} />
+      </div>
+    </div>
   </>);
 }
