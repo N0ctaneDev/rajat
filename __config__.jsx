@@ -7,72 +7,77 @@
 // u can put emojis in any text, except the _ConfessFinalText
 
 // !!!!-- REPLACE THIS WITH UR REPO FIRST --!!!
-export const _REPO = "my-love"
+export const _REPO = "rajat"
 
-export const _name = "Dear my love";   // tab/site name
+export const _name = "Happy B'Day bro";   // tab/site name
 
-export const _dearName = "My Love";  // name of the person u wanna gift to
+export const _dearName = "my brotha.. Rajat";  // name of the person u wanna gift to
 
-export const _bgEmoji = "🌸";   // shown as animated bg
+export const _bgEmoji = "🫂";   // shown as animated bg
 
-export const _themeColor = "#b06080" // use a lighter color, cz the colors are generated dimmed
+export const _themeColor = "#3985cc" // use a lighter color, cz the colors are generated dimmed
 
-export const _HeroTitle = "Hey You.."
-export const _HeroPara = "There's something I've been meaning to show you. Something that lives in my chest every single day."
+export const _HeroTitle = "Hello Brotha 😎✌️"
+export const _HeroPara = "Tujhe kya laga ? me bhul gaya... i aint ur crush nga 😂"
 
 
 export const _MemoryGallerySpeed = 0.95
 export const _MemoryMessages = [
   {
-    title: `${_dearName}`,
+    title: `Yaad hai ?`,
     content:
-      "I remember the exact moment I knew — not a grand gesture, just a quiet Tuesday, and you laughed at something small. And that was it. That was the beginning of everything.",
+      "jis din pehli baar school gaye the... 🥹 pata nhi kese tere jese bhadwe se me mila..",
   },
   {
-    title: "The Little Things",
+    title: "Fir...",
     content:
-      "The way you hold your mug with both hands. How you get excited about clouds. The specific hum you do when you're thinking. I've catalogued all of it without even trying.",
+      "Tune mera naam pucha... mene bhi tera pucha.. par maa ksam dono ko dusre ka naam yaad nhi raha 😂",
   },
   {
-    title: "When You Were Sad",
+    title: "then ek din...",
     content:
-      "I hated that I couldn't fix it. But I loved that you let me sit with you in it. That kind of trust — I don't take it lightly.",
+      "bench ka lakdi wala layer utar gaya tha... aur hamne kya bola.. 'sai kiran ne hag diya 😭'",
   },
   {
-    title: "Every Ordinary Day",
+    title: "then it went well..",
     content:
-      "Nothing special happened. We just existed in the same space. And somehow, those are the days I replay the most.",
+      "we became one of the most famous duo of the school... ek nhi jaata tha toh dusre ko puchte the teachers.. 'tera dost kahan hai'",
   },
   {
-    title: "What I Never Said",
+    title: "Pata nhi kese..",
     content:
-      "I wanted to say it a hundred times but the moment always felt too small or too big. So I saved it. For here. For now.",
+      "but tu mera bhai ban gaya.. 🫠 blood relation na hoke bhi tune blood walo se jyada comfort dilaya 💖",
   },
   {
-    title: "Something Ridiculous",
+    title: "kuch logo ka 1 mahine dosti khatam ho jati hai...",
     content:
-      "That one time we laughed so hard neither of us could speak. I don't even remember what it was about. I just remember your face.",
+      "but hamara bc 14 saal se chal raha hai... 😂 kabhi kabhi thoda dur ho jata hai... but hai toh dil ke paas hi 💝",
   },
   {
-    title: "Right Now",
+    title: "The thing is",
     content:
-      "You're reading this, and somehow that feels like the bravest thing I've ever done — handing you something real and watching you open it.",
+      "Me sabki B'day bhul jata hun... but is baar nhi...",
+  },
+  {
+    title: "Happy B'day mere bhai 🥳🥳😘",
+    content:
+      "Thanx mera bhai bn neke liye ❤️‍🔥",
   },
 ]
 
-export const _ConfessRevealText = "So, will you...";  // the first text
-export const _ConfessFinalText = "be mine ?";  // the second text
+export const _ConfessRevealText = "So, mere apne bhai ❤️‍🩹...";  // the first text
+export const _ConfessFinalText = "mera dost, mera bhai ban ke rahega na";  // the second text
 export const _ConfessEmoji = "🥹"
 export const _ConfessButtons = [
-  { id: "btn_yes",   text: "Yes, always 💕",  clickable: true,  url: "/yes"   }, // dont change the url, unless u know what u are doing
-  { id: "btn_no",    text: "No way",           clickable: false, url: ""       },
-  { id: "btn_maybe", text: "Maybe... 👀",      clickable: false, url: ""       },
+  { id: "btn_yes",   text: "Haan mere bache 🥹",  clickable: true,  url: "/yes"   }, // dont change the url, unless u know what u are doing
+  { id: "btn_no",    text: "Nikal bsdk 😡",           clickable: false, url: ""       },
+  { id: "btn_maybe", text: "G mara 😏",      clickable: false, url: ""       },
 ];
 
 
 
 // u can put emojis in these 2
 export const _FinalText = "I knew It !! 😭"
-export const _FinalCompliment = "It's the happiest i have ever been !! ❤️‍🩹"
+export const _FinalCompliment = "Thanx mere bhai ❤️‍🩹"
 export const _FinalGif = "cute" // [flower, bear, cute, crackers]
 // the gifs are in /public
